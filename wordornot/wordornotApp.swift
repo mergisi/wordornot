@@ -8,13 +8,11 @@
 import SwiftUI
 
 @main
-struct wordornotApp: App {
-    let persistenceController = PersistenceController.shared
-
+struct WordOrNahApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            HomeView()
+                .preferredColorScheme(.dark)
         }
     }
 }

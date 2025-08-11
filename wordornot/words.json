@@ -1,0 +1,518 @@
+[
+  {
+    "text": "abundant",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "beautiful",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "creative",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "delicious",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "elegant",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "fantastic",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "generous",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "harmony",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "inspire",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "journey",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "eloquent",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "magnificent",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "perspicuous",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "archaic"
+  },
+  {
+    "text": "quintessential",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "resilient",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "serendipity",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "ubiquitous",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "technical"
+  },
+  {
+    "text": "vivacious",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "wanderlust",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "zeitgeist",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "perspicacious",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "sesquipedalian",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "technical"
+  },
+  {
+    "text": "antediluvian",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "pusillanimous",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "grandiloquent",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "obsequious",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "magnanimous",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "perspicacious",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "archaic"
+  },
+  {
+    "text": "verisimilitude",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "technical"
+  },
+  {
+    "text": "circumlocution",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "technical"
+  },
+  {
+    "text": "flurble",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "gribble",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "snurple",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "blimple",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "krangle",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "wobbit",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "flomble",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "grimpul",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "snarkle",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "bliffle",
+    "isReal": false,
+    "difficulty": "easy",
+    "category": "invented"
+  },
+  {
+    "text": "flimbulent",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "grompulous",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "snurdlicate",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "blimperous",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "krangleton",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "wobbitous",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "flombulate",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "grimpulant",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "snarkleous",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "bliffulate",
+    "isReal": false,
+    "difficulty": "medium",
+    "category": "invented"
+  },
+  {
+    "text": "flimbulentious",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "grompulentific",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "snurdlicatious",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "blimp­erousness",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "krangletonian",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "wobbitousness",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "flombulaceous",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "grimpulantive",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "snarklacious",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "bliffumentation",
+    "isReal": false,
+    "difficulty": "hard",
+    "category": "invented"
+  },
+  {
+    "text": "algorithm",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "technical"
+  },
+  {
+    "text": "photosynthesis",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "scientific"
+  },
+  {
+    "text": "mitochondria",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "scientific"
+  },
+  {
+    "text": "pneumonia",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "scientific"
+  },
+  {
+    "text": "encyclopedia",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "rhinoceros",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "magnificent",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "butterfly",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "democracy",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "philosophy",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "extraordinary",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "refrigerator",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "helicopter",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "basketball",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "electricity",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "technical"
+  },
+  {
+    "text": "mathematics",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "technical"
+  },
+  {
+    "text": "architecture",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "technology",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "technical"
+  },
+  {
+    "text": "imagination",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "celebration",
+    "isReal": true,
+    "difficulty": "easy",
+    "category": "common"
+  },
+  {
+    "text": "understanding",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "environment",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "development",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "communication",
+    "isReal": true,
+    "difficulty": "medium",
+    "category": "common"
+  },
+  {
+    "text": "responsibility",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "common"
+  },
+  {
+    "text": "entrepreneurship",
+    "isReal": true,
+    "difficulty": "hard",
+    "category": "technical"
+  }
+]
